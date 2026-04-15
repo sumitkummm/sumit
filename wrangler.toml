@@ -1,0 +1,6 @@
+name = "sumit-portfolio"
+pages_build_output_dir = "dist"
+
+[vars]
+# Add your environment variables here for Cloudflare
+# GEMINI_API_KEY = "your-key"
